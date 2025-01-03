@@ -43,7 +43,7 @@ With a B.S. in Computer Science and industry certifications (ITIL and CompTIA Pr
 - **Bachelor of Science in Computer Science** - Western Governors University
 - **Certifications**: ITIL v4 Foundation in IT Service Management, CompTIA Project+ Certified
 - **GitHub's All In Open-Source**: Software Engineer Student Fellow (2023)
-- **Hack the Hood - Build: Software Engineer Student Fellow (2024)
+- **Hack the Hood - Build**: Software Engineer Student Fellow (2024)
 
 ---
 
