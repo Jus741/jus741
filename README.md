@@ -27,7 +27,7 @@ With a B.S. in Computer Science and industry certifications (ITIL and CompTIA Pr
 
 ## 💼 Recent Projects
 
-### 🔒 Fraud Detection System
+### 🔒 ML-pwoered Fraud Detection System
 - Built a machine learning model to detect fraudulent transactions using Python, Scikit-Learn, and GridSearchCV for hyperparameter tuning. The model achieved high accuracy, helping clients mitigate risk and detect anomalous transactions with precision.
 
 ### 🖥️ Website Migration and Optimization
@@ -42,13 +42,8 @@ With a B.S. in Computer Science and industry certifications (ITIL and CompTIA Pr
 
 - **Bachelor of Science in Computer Science** - Western Governors University
 - **Certifications**: ITIL v4 Foundation in IT Service Management, CompTIA Project+ Certified
-- **GitHub's All In Open-Source**: 2023 cohort
-
----
-
-## 🌱 Currently Learning
-
-I'm currently a student fellow in the 2024 Hack the Hood: Build cohort.  I'm using Python libraries such as Numpy, Pandas, Jupyter Notebook, Matplotlib, and Scikit-Learn via Google Colab to perform structured data operations, to visualize data, and to create simple machine learning algorithms.  The Build program focuses on teaching these skills while also being mindful of data activism.
+- **GitHub's All In Open-Source**: Software Engineer Student Fellow (2023)
+- **Hack the Hood - Build: Software Engineer Student Fellow (2024)
 
 ---
 
