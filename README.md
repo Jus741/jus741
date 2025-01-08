@@ -27,7 +27,7 @@ With a B.S. in Computer Science and industry certifications (ITIL and CompTIA Pr
 
 ## 💼 Recent Projects
 
-### 🔒 ML-pwoered Fraud Detection System
+### 🔒 ML-powered Fraud Detection System
 - Built a machine learning model to detect fraudulent transactions using Python, Scikit-Learn, and GridSearchCV for hyperparameter tuning. The model achieved high accuracy, helping clients mitigate risk and detect anomalous transactions with precision.
 
 ### 🖥️ Website Migration and Optimization
